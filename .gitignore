@@ -1,0 +1,21 @@
+@'
+# Node
+node_modules/
+client/node_modules/
+Server/node_modules/
+
+# Builds
+dist/
+client/dist/
+Server/dist/
+build/
+
+# Env
+.env
+client/.env
+Server/.env
+
+# Misc
+.vercel/
+.DS_Store
+'@ | Out-File -Encoding utf8 .gitignore
