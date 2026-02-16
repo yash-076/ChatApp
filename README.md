@@ -2,6 +2,8 @@
 
 A full-stack chat application with a Vite + React client and a Node/Express server.
 
+Live demo: https://chat-app-nine-azure-45.vercel.app/
+
 ## Project Layout
 
 - client/ - Vite + React frontend
